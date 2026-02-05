@@ -1,9 +1,9 @@
 
 ### Hello world! Olá mundo! Salut le monde 👋🤓
 ***
-I'm Igor, brazilian computer science student and enthusiast - I like pretty much something about everything 😅 - I love to help, I'm better working with a team than alone, get motivated more this way. Being part of something bigger than just me is awesome!
+I'm Igor, brazilian computer scientis and enthusiast - I like pretty much something about everything 😅 - I love to help, I'm better working with a team than alone, get motivated more this way. Being part of something bigger than just me is awesome!
 
-Je parle un peu de français aussi, ce n'est pas incroyable, mais je suis déjà allé en France et y habité avec une famille, donc, je peux vivre sans problème dans un pays francophone 
+Je parle un peu de français aussi, ce n'est pas incroyable, mais je suis déjà allé en France et y habité avec une famille, donc, je peux vivre sans problème dans un pays francophone.
 
 <!--
 **siebtel/siebtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [isaac](https://isaac.com.br/) and finishing my BSc degree in Computer Science at Rio de Janeiro State University (UERJ).
+- 🔭 I’m currently open to work.
 - 🌱 I’m currently learning:
   - 日本語
-  - How to make good documentation with Jekyll by following the advices of [Daniele Procida](https://www.linkedin.com/in/danieleprocida/)
+  - Doing the course of Felipe Deschamps, ex-CTO of Pagarme and main creator of TabNews 
 - 📫 How to reach me: siebtel.ss@gmail.com
 
 <p align="center">
