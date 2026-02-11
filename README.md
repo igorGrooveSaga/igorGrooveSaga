@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently open to work.
+- 🔭 I’m currently open to work. My previous github work account was [igor-isaac](https://github.com/igor-isaac?tab=overview&from=2025-12-01&to=2025-12-31)
 - 🌱 I’m currently learning:
   - 日本語
   - Doing the course of Felipe Deschamps, ex-CTO of Pagarme and main creator of TabNews 
